@@ -65,24 +65,6 @@ export function Menu() {
                     </li>
                   ))}
               <ThemeToggle />
-              <li className="flex gap-2 items-center">
-                <a
-                  href="https://github.com/ourongxing/newsnow"
-                >
-                  <img
-                    alt="GitHub stars badge"
-                    src="https://img.shields.io/github/stars/ourongxing/newsnow?logo=github"
-                  />
-                </a>
-                <a
-                  href="https://github.com/ourongxing/newsnow/fork"
-                >
-                  <img
-                    alt="GitHub forks badge"
-                    src="https://img.shields.io/github/forks/ourongxing/newsnow?logo=github"
-                  />
-                </a>
-              </li>
             </ol>
           </motion.div>
         </div>

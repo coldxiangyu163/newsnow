@@ -48,8 +48,8 @@ export function Header() {
           <span className="text-2xl font-brand line-height-none!">
             <p>News</p>
             <p className="mt--1">
-              <span className="color-primary-6">T</span>
-              <span>op</span>
+              <span className="color-primary-6 font-bold">T</span>
+              <span className="font-bold">op</span>
             </p>
           </span>
         </Link>
